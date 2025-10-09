@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "id": "550",
+      "name": "Fight Club Trailer",
+      "key": "BdJKm16Co6M",
+      "published_at": "1999-09-10",
+      "type": "Trailer"
+    },
+    {
+      "id": "60",
+      "name": "Some Other Movie Trailer",
+      "key": "ScMzIvxBSi4",
+      "published_at": "2000-05-10",
+      "type": "Trailer"
+    }
+  ]
+}
+
