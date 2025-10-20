@@ -20,11 +20,11 @@ const Footer = () => {
         <li>Terms of Use</li>
         <li>Privacy</li>
         <li>Legal Notices</li>
-        <li>Cookie Preferences</li>
+         
         <li>Corporate Information</li>
         <li>Contact Us</li>
       </ul>
-      <p className="copyright-text">&#169; 1997-2025 Netflix, Inc.</p>
+      <p className="copyright-text">&#169; 1997-2025 Netflix </p>
     </div>
   )
 }
